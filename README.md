@@ -66,16 +66,11 @@ git clone https://github.com/vinitjain2005/SEBI.git
 cd SEBI
 ```
 
-### Backend (FastAPI)
+### Run Command 
 
 ```bash
-cd backend
-python -m venv .venv
-.venv\Scripts\activate   # Windows
-source .venv/bin/activate  # Linux/Mac
-
-pip install -r requirements.txt
-uvicorn main:app --reload --port 8000
+cd C:\Users\jainv\OneDrive\Desktop\SEBI\SEBI
+python -m streamlit run app.py
 ```
 
 ### Frontend (React)
