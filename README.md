@@ -1,5 +1,3 @@
-Got it 🚀 Let’s draft a **professional README.md** for your **SEBI Investor Education App** project. You can paste this into your repo’s `README.md` file:
-
 ---
 
 # 📈 SEBI Investor Education & Awareness App
