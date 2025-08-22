@@ -73,16 +73,6 @@ cd C:\Users\jainv\OneDrive\Desktop\SEBI\SEBI
 python -m streamlit run app.py
 ```
 
-### Frontend (React)
-
-```bash
-cd frontend
-npm install
-npm start
-```
-
-The app will run at:
-https://qpn0jxrk-8502.inc1.devtunnels.ms/
 ---
 
 ## 📌 Context
